@@ -20,6 +20,7 @@ import "./accessibility.css"; // Global accessibility styles from 'main'
 import "bootstrap/dist/css/bootstrap.min.css"; // Added from 'currency-converter'
 import "./responsive.css";
 
+
 // Route configuration and lazy loading from 'main'
 // IMPORTANT: You must add your new routes (Currency, AboutUsPage, etc.) to this file.
 import { routes, prefetchCriticalRoutes } from "./utils/routeConfig";
